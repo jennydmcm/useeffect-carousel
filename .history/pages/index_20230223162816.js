@@ -15,7 +15,7 @@ export default function Home() {
         <Link href="/useEffectOne">useEffectOne</Link>
         <Link href="/useEffectTwo">useEffectTwo</Link>
         <Link href="/useEffectThree">useEffectThree</Link>
-        <Link href="/carouselPage">Carousel Page</Link>
+        <Link href="/carouselPage"
       </main>
     </>
   )

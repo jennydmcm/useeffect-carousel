@@ -12,10 +12,8 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main className={styles.main}>
-        <Link href="/useEffectOne">useEffectOne</Link>
-        <Link href="/useEffectTwo">useEffectTwo</Link>
-        <Link href="/useEffectThree">useEffectThree</Link>
-        <Link href="/carouselPage">Carousel Page</Link>
+        <Link>useEffectOne</Link>
+
       </main>
     </>
   )
