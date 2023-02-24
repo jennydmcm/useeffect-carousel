@@ -1,0 +1,13 @@
+.leftarrow {}
+
+.rightarrow {}
+
+.arrows {
+    display: flex;
+    flex-direction: column;
+}
+
+.img {
+    border-radius: 2rem;
+    border: 1rem solid gray;
+}

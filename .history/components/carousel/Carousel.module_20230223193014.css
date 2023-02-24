@@ -1,0 +1,19 @@
+.leftarrow {}
+
+.rightarrow {
+    width: 4rem;
+}
+
+.arrows {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    height: 150%;
+    align-items: flex-end;
+
+}
+
+.img {
+    border-radius: 2rem;
+    border: 1rem solid gray;
+}

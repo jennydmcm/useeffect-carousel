@@ -1,0 +1,15 @@
+.leftarrow {}
+
+.rightarrow {}
+
+.arrows {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-content: end;
+}
+
+.img {
+    border-radius: 2rem;
+    border: 1rem solid gray;
+}

@@ -1,0 +1,44 @@
+.main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 6rem;
+    min-height: 50vh;
+}
+
+.homelink {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 5rem;
+    color: white;
+    text-decoration: none;
+    padding: 1rem;
+}
+
+.homelink:hover {
+    color: var(--text-hover);
+}
+
+.button {
+    padding: 1rem;
+}
+
+.title {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2rem;
+    color: var(--text-hover);
+    padding: 2rem;
+}
+
+.number {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.5rem;
+    color: white;
+    padding: 1rem;
+    padding-left: 5rem;
+    padding-right: 5rem;
+    background-color: var(--text-hover);
+    border-radius: 5rem;
+
+
+}

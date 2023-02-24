@@ -1,0 +1,23 @@
+.main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 6rem;
+    min-height: 50vh;
+}
+
+.homelink {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 3.5rem;
+    color: white;
+    text-decoration: none;
+}
+
+.homelink:hover {
+    color: var(--text-hover);
+}
+
+.title {}
+
+.number {}

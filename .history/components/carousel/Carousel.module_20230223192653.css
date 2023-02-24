@@ -1,0 +1,16 @@
+.leftarrow {}
+
+.rightarrow {}
+
+.arrows {
+    height: 150%;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+
+}
+
+.img {
+    border-radius: 2rem;
+    border: 1rem solid gray;
+}
